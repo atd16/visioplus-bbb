@@ -1,0 +1,9 @@
+node_modules/
+screenshots/*
+!screenshots/screenshots.txt
+downloads/*
+!downloads/downloads.txt
+.directory
+.env
+media/*
+data/
